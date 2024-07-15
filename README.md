@@ -46,7 +46,7 @@ python -c ./configs/dcase2023.yaml
 
 ## 4. Pretraining
 
-The uploaded files include the Baseline model pre-trained. 
+The uploaded files include the Baseline model [pre-trained](./weight/). 
 
 Due to the size limitation, the pre-model for CRNN10 is located at [here](https://pan.baidu.com/s/13NMMFdtfMRo04pcJuUN_sw) (password：aada)
 
