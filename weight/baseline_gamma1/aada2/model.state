@@ -1,0 +1,1 @@
+{"last_iter": 188000, "best_iter": 188000, "train_loss": 0.0012078037252649665, "val_loss": 0.0206409676764638, "ER": 0.5947984688133303, "F": 0.3448858344938366, "LE": 31.47383340864462, "LR": 0.47243565505566704, "seld_scr": 0.48808290232796314, "dcase_output_val_folder": "./logging/baseline_mse_k_ops:2_n_proj_layer:0_5.0_sf:3000.0__2024-04-26-09:29:59/tmp_results"}
