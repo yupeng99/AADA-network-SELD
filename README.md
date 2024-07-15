@@ -14,7 +14,7 @@ This repository is an official PyTorch implementation of the paper "Automated Au
 
 After running the program, it will generate the paths for all the audio files in the corresponding dataset. When loading the audio data later, it will search for the detailed paths from that file. Please refer to the following illustration:
 
-![image-20240715163045209](img\image-20240715163045209.png)
+![image-20240715163045209](img/image-20240715163045209.png)
 
 ------
 
