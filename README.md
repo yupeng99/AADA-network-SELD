@@ -50,5 +50,5 @@ The uploaded files include the Baseline model pre-trained.
 
 Due to the size limitation, the pre-model for CRNN10 is located at [here](https://pan.baidu.com/s/13NMMFdtfMRo04pcJuUN_sw) (password：aada)
 
-, and the pre-model for Resnet-Conformer is located at [here](链接：https://pan.baidu.com/s/19OcEG02on3ROj6gRoBhrog)(password：aada).
+, and the pre-model for Resnet-Conformer is located at [here](https://pan.baidu.com/s/19OcEG02on3ROj6gRoBhrog)(password：aada).
 
