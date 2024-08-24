@@ -39,7 +39,7 @@ After running the program, it will generate the paths for all the audio files in
 ## 3. Training
 
 ```python
-python -c ./configs/dcase2023.yaml
+python train.py -c ./configs/dcase2023.yaml
 ```
 
 ------
